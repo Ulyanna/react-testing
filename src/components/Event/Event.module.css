@@ -1,18 +1,18 @@
-.event {
+/* .event {
   position: relative;
   border: 2px dashed black;
   padding: 8px;
   border-radius: 4px;
-}
-.title {
+} */
+/* .title {
   margin-top: 0;
   font-size: 14px;
   line-height: 24px;
   font-weight: 700;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-}
-.info {
+} */
+/* .info {
   display: flex;
   align-items: center;
   margin-top: 0;
@@ -22,13 +22,13 @@
   line-height: 24px;
   font-weight: 400;
   letter-spacing: 0.25px;
-}
-.icon {
+} */
+/* .icon {
   display: block;
   margin-right: 8px;
   color: rgb(165, 164, 164);
-}
-.chip {
+} */
+/* .chip {
   position: absolute;
   top: 4px;
   right: 4px;
@@ -37,8 +37,8 @@
   text-transform: uppercase;
   background-color: rgb(138, 138, 138);
   color: white;
-}
-.free {
+} */
+/* .free {
   background-color: rgb(26, 158, 0);
 }
 .paid {
@@ -46,4 +46,4 @@
 }
 .vip {
   background-color: rgb(253, 59, 0);
-}
+} */
